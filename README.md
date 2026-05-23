@@ -82,6 +82,3 @@ python dashboard/monitor.py
 
 ---
 
-## Built by
-
-Solo project built for a hackathon. Hardware security from first principles.
